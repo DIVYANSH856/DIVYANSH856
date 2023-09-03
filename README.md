@@ -50,7 +50,7 @@ Here are some of my notable projects:
 
 - **Cloud Platforms**: AWS, Google Cloud Platform (GCP)
 
-- **DevOps**: Docker, Kubernetes, Jenkins, Ansible, Terraform
+- **DevOps**: Docker, Kubernetes, Jenkins, Ansible, Terraform , CloudFormation
 
 - **Web Development**: React.js, HTML, CSS
 
