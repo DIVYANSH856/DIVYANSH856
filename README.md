@@ -60,16 +60,4 @@ Here are some of my notable projects:
 
 - **Networking**: Computer Networking
 
-## Courses and Certifications
-
-- [Networking Essentials - Cisco](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/entry/ccna.html)
-
-- [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/3f41e437-e66f-482b-b217-dccbcf0a8573/linked_in_profile)
-
-- [Dive Into Ansible - From Beginner to Expert in Ansible](https://udemy-certificate.s3.amazonaws.com/image/UC-a66a34f0-11ab-41f2-a68b-ab262d5cb21e.jpg)
-
-- [Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/public_profiles/c8e5d447-62fa-478b-bea5-c68c96754b3e/badges/3904743)
-
-- [Essential Google Cloud Infrastructure: Foundation, Core Services](https://www.cloudskillsboost.google/public_profiles/c8e5d447-62fa-478b-bea5-c68c96754b3e/badges/3994255)
-
 Feel free to explore my projects and get in touch if you'd like to collaborate or discuss tech topics. Let's learn and grow together! 🚀
