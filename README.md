@@ -8,7 +8,7 @@ I'm Divyansh Kohli, a B.E. Computer Science student specializing in DevOps at CH
 
 - 📚 Currently pursuing B.E - CSE with specialization in DevOps, and maintaining a CGPA of 8.13.
 
-- 📧 You can reach me at: kohlidivyansh7@gmail.com or +91 9643657525.
+- 📧 You can reach me at: kohlidivyansh7@gmail.com.
 
 - 📍 Based in Delhi, India.
 
