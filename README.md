@@ -14,8 +14,6 @@ I'm Divyansh Kohli, a B.E. Computer Science student specializing in DevOps at CH
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh856).
 
-- 💻 Check out my GitHub: [GitHub Profile](https://github.com/DIVYANSH856).
-
 ## Work Experience
 
 - **Intern** at [delaplex](https://delaplex.com/) (June 2022 - September 2022, Atlanta)
