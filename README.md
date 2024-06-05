@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Divyansh Kohli, a B.E. Computer Science student specializing in DevOps at CHANDIGARH UNIVERSITY. I'm passionate about Cloud, DevOps, and Frontend Development.
+I'm Divyansh Kohli, a B.E. Computer Science student specializing in DevOps. I'm passionate about Cloud, DevOps, and Frontend Development.
 
 ## About Me
 
