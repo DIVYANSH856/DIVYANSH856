@@ -6,7 +6,7 @@ I'm Divyansh Kohli, a B.E. Computer Science student specializing in DevOps. I'm 
 
 - 🌱 I'm continuously learning and exploring new technologies.
 
-- 📚 Currently pursuing B.E - CSE with specialization in DevOps, and maintaining a CGPA of 8.2.
+- 📚 Currently pursuing B.E - CSE with specialization in DevOps
 
 - 📧 You can reach me at: kohlidivyansh7@gmail.com.
 
