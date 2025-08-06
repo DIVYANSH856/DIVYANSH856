@@ -1,61 +1,91 @@
-# Hi there! 👋
+# 👋 Hi there! I'm Divyansh Kohli
 
-I'm Divyansh Kohli, a B.E. Computer Science student specializing in DevOps. I'm passionate about Cloud, DevOps, and Frontend Development.
+🎓 B.E. in Computer Science (Specialization in DevOps)  
+🚀 DevOps Engineer @ [Cloudanix (YC S21)](https://cloudanix.com)  
+📍 Based in Delhi, India | 🌎 Working Remotely (Sunnyvale, CA)  
+📧 Reach me at: [kohlidivyansh7@gmail.com](mailto:kohlidivyansh7@gmail.com)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh856)
 
-## About Me
+---
 
-- 🌱 I'm continuously learning and exploring new technologies.
+## 🧑‍💻 About Me
 
-- 📚 Currently pursuing B.E - CSE with specialization in DevOps
+- 🧠 I’m passionate about **Cloud**, **DevOps**, and **Infrastructure as Code**
+- 🏗️ I enjoy building scalable, secure, and automated infrastructure
+- 🌱 Continuously learning, especially around Kubernetes, CI/CD, and Cloud Security
+- ☁️ 1x AWS Certified — *Cloud Practitioner*
 
-- 📧 You can reach me at: kohlidivyansh7@gmail.com.
+---
 
-- 📍 Based in Delhi, India.
+## 💼 Work Experience
 
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/divyansh856).
+### 🟦 **DevOps Engineer**  
+**Cloudanix (YC S21)** | *Jun 2025 – Present* · Sunnyvale, CA  
+- Building and scaling secure cloud infrastructure using AWS, Kubernetes, and Terraform  
+- Managing CI/CD pipelines, observability tooling, and IaC governance  
+- Focus on cloud security, least privilege access, and compliance
 
-## Work Experience
+### 🟩 **Software Engineer Intern**  
+**Cloudanix** | *Feb 2024 – Jun 2025* · Remote  
+- Worked on production-grade infrastructure with focus on Terraform, Kubernetes, and GitOps  
+- Implemented JIT access, alerting pipelines, and automated security checks
 
-- **Intern** at [delaplex](https://delaplex.com/) (June 2022 - September 2022, Atlanta)
-  - Worked on live projects, focusing on setting up and optimizing CI/CD pipelines and automation using Ansible.
+### 🟨 **DevOps Intern**  
+**delaPlex** | *Jun 2022 – Sep 2022* · Atlanta, GA  
+- Setup and optimized CI/CD pipelines  
+- Automated infrastructure provisioning using Ansible  
+- Worked on React.js dashboards for monitoring
 
-## Personal Projects
+---
 
-Here are some of my notable projects:
+## 🛠️ Skills
 
-1. **VPROFILE MULTITIER JAVA APPLICATION DEPLOYMENT ON KUBERNETES**
-   - Designed and deployed a complex multi-tier Java application on a Kubernetes cluster using kops on AWS.
-   - Containerized each component of the application and leveraged Kubernetes for orchestration.
-   - [Project Link](https://github.com/DIVYANSH856/VPROFILE-MULTITIER-JAVA-APPLICATION-DEPLOYMENT-ON-KUBERNETES)
+**Languages:** Python, Bash, JavaScript, SQL  
+**Cloud Platforms:** AWS (Certified), GCP  
+**DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, Jenkins, CloudFormation  
+**Web Development:** React.js, HTML, CSS  
+**CI/CD:** GitHub Actions, Jenkins, GitOps  
+**Databases:** MySQL  
+**Networking:** Fundamentals of Networking, VPCs, Firewalls, DNS
 
-2. **Dockerized Java Microservices Web App with Maven**
-   - Developed and Dockerized a microservices-based Java application with Maven.
-   - Implemented CI/CD using Maven and Jetty for streamlined development.
-   - [Project Link](https://github.com/DIVYANSH856/Java_microservice_app_maven)
+---
 
-3. **UNIVERSITY MANAGEMENT SYSTEM**
-   - Created a Python GUI software (tkinter) for storing and editing student, parent, and faculty databases.
-   - [Project Link](https://github.com/DIVYANSH856/university-management-system)
+## 🧪 Certifications
 
-4. **ExploreCaliforniaWeb-Deployed_with_Kubernetes**
-   - Utilized Helm to author a Helm chart for streamlined deployments.
-   - Successfully deployed Explore California on AWS EKS and ECR.
-   - [Project Link](https://github.com/DIVYANSH856/deploy_explorecalifornia_kubernetes)
+- 🏅 **AWS Certified Cloud Practitioner**  
+  *Issued Nov 2023 | Valid Until Nov 2026*  
+  [Credential Verification (if available)](#)
 
-## Skills
+---
 
-- **Languages**: Python, Bash scripting, JavaScript, SQL
+## 🛠️ Projects
 
-- **Cloud Platforms**: AWS, Google Cloud Platform (GCP)
+Here are some of my notable DevOps and Cloud-native projects:
 
-- **DevOps**: Docker, Kubernetes, Jenkins, Ansible, Terraform , CloudFormation
+### 📦 [VPROFILE Multitier Java App on Kubernetes](https://github.com/DIVYANSH856/VPROFILE-MULTITIER-JAVA-APPLICATION-DEPLOYMENT-ON-KUBERNETES)
+- Deployed a multi-tier Java app on AWS using `kops`-based Kubernetes cluster  
+- Containerized services and orchestrated with Kubernetes workloads
 
-- **Web Development**: React.js, HTML, CSS
+### 🐳 [Java Microservices Web App (Docker + Maven)](https://github.com/DIVYANSH856/Java_microservice_app_maven)
+- Developed and dockerized a microservices-based Java application  
+- Integrated Maven builds and Jetty for CI pipelines
 
-- **Version Control**: Git, GitHub
+### 🎓 [University Management System](https://github.com/DIVYANSH856/university-management-system)
+- Python GUI (Tkinter) desktop app for managing student and faculty records
 
-- **Database**: MySQL
+### ☸️ [Explore California Web App on EKS + Helm](https://github.com/DIVYANSH856/deploy_explorecalifornia_kubernetes)
+- Authored Helm charts and deployed app on AWS EKS  
+- Managed container lifecycle using ECR and Kubernetes deployments
 
-- **Networking**: Computer Networking
+---
 
-Feel free to explore my projects and get in touch if you'd like to collaborate or discuss tech topics. Let's learn and grow together! 🚀
+## 📈 GitHub Stats
+
+*(Optional – you can add a GitHub stats card using services like [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) if you’d like)*
+
+---
+
+### 📬 Let’s Connect
+
+Whether it's discussing tech, collaborating on a project, or exploring new ideas — I’m always open to connecting!  
+👉 [LinkedIn](https://www.linkedin.com/in/divyansh856) | [Email](mailto:kohlidivyansh7@gmail.com)
