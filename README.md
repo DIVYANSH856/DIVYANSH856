@@ -40,13 +40,13 @@
 
 ## 🛠️ Skills
 
-**Languages:** Python, Bash, JavaScript, SQL  
 **Cloud Platforms:** AWS (Certified), GCP  
 **DevOps Tools:** Docker, Kubernetes, Terraform, Ansible, Jenkins, CloudFormation  
 **Web Development:** React.js, HTML, CSS  
 **CI/CD:** GitHub Actions, Jenkins, GitOps  
 **Databases:** MySQL  
 **Networking:** Fundamentals of Networking, VPCs, Firewalls, DNS
+**Languages:** Python, Bash, SQL  
 
 ---
 
@@ -56,9 +56,10 @@
   *Issued Nov 2023 | Valid Until Nov 2026*  
   [Credential Verification (if available)](#)
 
+- Many More Upcomings
 ---
 
-## 🛠️ Projects
+## 🛠️ Personal Projects
 
 Here are some of my notable DevOps and Cloud-native projects:
 
@@ -76,12 +77,6 @@ Here are some of my notable DevOps and Cloud-native projects:
 ### ☸️ [Explore California Web App on EKS + Helm](https://github.com/DIVYANSH856/deploy_explorecalifornia_kubernetes)
 - Authored Helm charts and deployed app on AWS EKS  
 - Managed container lifecycle using ECR and Kubernetes deployments
-
----
-
-## 📈 GitHub Stats
-
-*(Optional – you can add a GitHub stats card using services like [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) if you’d like)*
 
 ---
 
